@@ -1,0 +1,20 @@
+git	digunakan untuk membuat/mencatat perubahan,sering folder,project di file
+git memiliki 2 jenis yaitu	sentralis dan distibutit
+distibutit sebelum kita simpan ke distibutit kita harus simpan ke lokal
+kalau misalkan server mati kita tidak dapt menyimpan perubahan
+karna ssh key nya masih kosong ssh key buat generati key nxa
+embuat akses pablik key bisa mengakses ke server
+membuat repo
+git clone fungsi untuk mengkopy repo/project ke pc 
+git nma dari persition controling
+cara menambah file di git
+git status fungsi nxa untuk melihat ad perubahan atau tidak
+git add memilih file yg akan dikomit
+add . untuk mengkomit semua file yag akan di komit
+git commet itu untuk meletakkan/menyimpan file ke repo lokal
+git push untuk menletakkan kerepo pusat
+git pull unutk mengambil perubahan terbaru dari repo pusat(sever)
+fork untuk mengclone github yang 1 ke github yg 1 nya lagi
+merge pull reques funsi update yg terbaru digabungkan dimasukan ke repo yg bikin hub
+git berfungsi untuk melihat history nya seperti nmengepus dan mengepul
+
